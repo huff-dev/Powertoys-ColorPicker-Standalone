@@ -17,7 +17,6 @@ Run the PowerToys Color Picker utility on demand without installing PowerToys or
 - **Standalone** — No need to run the full PowerToys suite
 - **Portable** — Single executable, no installation required
 - **Lightweight** — Runs only when you need it
-- **Full PowerToys Color Picker functionality** — All the features you expect
 
 ## Usage
 
