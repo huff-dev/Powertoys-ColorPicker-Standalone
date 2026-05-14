@@ -1,0 +1,8 @@
+images/
+dll/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+launch-colorpicker.exe
