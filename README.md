@@ -10,7 +10,7 @@
 
 # PowerToys Color Picker (Standalone) 
 
-Run the PowerToys Color Picker utility on demand without installing PowerToys or keeping running in the background.
+Run the PowerToys Color Picker utility on demand without installing PowerToys or keeping it running in the background.
 
 ## Features
 
